@@ -1,0 +1,3 @@
+This is the file which has references for montecarlo problem.
+
+srand(time(null)) -----  makes use of the computer's internal clock to control the choice of the seed.  Since time is continually changing, the seed is forever changing.  Remember, if the seed number remains the same, the sequence of numbers will be repeated for each run of the program.
